@@ -53,7 +53,7 @@
     <footer>
       <p><img src="./assets/svg/ing.svg"></p>
       <p>
-        
+        <script defer src="https://umami.yviii.com/random-string.js" data-website-id="cf93cceb-7869-4e90-b72d-b6fa179832bb"></script>
       </p>
     </footer>
   </a-watermark>
